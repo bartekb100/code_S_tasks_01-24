@@ -13,14 +13,14 @@ roznica = a - b
 
 if suma > roznica
   puts "Suma większa od różnicy"
-  puts "Suma: #{suma}"
-  puts "Różnica: #{roznica}"
+  # puts "Suma: #{suma}"
+  # puts "Różnica: #{roznica}"
 elsif suma < roznica
   puts "Suma jest mniejsza od różnicy"
-  puts "Suma: #{suma}"
-  puts "Różnica: #{roznica}"
+  # puts "Suma: #{suma}"
+  # puts "Różnica: #{roznica}"
 else
   puts "Suma jest równa różnicy"
-  puts "Suma: #{suma}"
-  puts "Różnica: #{roznica}"
 end
+puts "Suma: #{suma}"
+puts "Różnica: #{roznica}"
