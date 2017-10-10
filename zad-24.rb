@@ -14,5 +14,7 @@ while a != b
     else
       b = b -a
     end
-    puts "#{a}, #{b}"
+    # puts "#{a}, #{b}"
 end
+
+puts "NWD = #{a}"
